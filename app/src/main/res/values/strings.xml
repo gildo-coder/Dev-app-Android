@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GMExplorer</string>
+    <string name="couleurs_pref">couleur de visualisation</string>
+    <string name="title_activity">Coleur de Preference</string>
+</resources>
